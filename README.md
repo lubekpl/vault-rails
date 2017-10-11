@@ -5,6 +5,8 @@ Vault is the official Rails plugin for interacting with [Vault](https://vaultpro
 
 **The documentation in this README corresponds to the master branch of the Vault Rails plugin. It may contain unreleased features or different APIs than the most recently released version. Please see the Git tag that corresponds to your version of the Vault Rails plugin for the proper documentation.**
 
+test
+
 Quick Start
 -----------
 1. Add to your Gemfile:
